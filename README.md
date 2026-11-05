@@ -3,7 +3,9 @@
 ### A Pigeonhole Bound on Worthwhile Reasoning, and Why a Length-Biased Judge Cannot Ignore It
 
 **Author:** Riccardo Galmozzi  
-**Paper:** [paper.pdf](paper.pdf)
+**Paper:** [paper.pdf](paper.pdf) (1-page note)
+
+> **Format & Philosophy:** Following the ethos of *"On Brevity"* (Krier, 2026), this paper is deliberately constrained to **exactly one page** (no appendix). Practicing what Proposition 1 preaches: since marginal sentences face bounded utility, the paper stops at page 1.
 
 ---
 
