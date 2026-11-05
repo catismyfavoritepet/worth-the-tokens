@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Experiment generated data & outputs (can be reproduced via scripts)
+results.csv
+responses.jsonl
+judge.csv
+figure.png
+figure.pdf
+
+# Drafts and internal outreach notes
+BOZZE INIZIALI/
+posts.md
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
